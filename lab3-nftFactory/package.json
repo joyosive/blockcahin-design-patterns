@@ -1,0 +1,27 @@
+{
+  "name": "NFT_FACTORY",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joyosive/blockcahin-design-patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "bignumber.js": "^9.0.1",
+    "solc": "^0.7.1",
+    "solidity-coverage": "^0.7.14",
+    "truffle-assertions": "^0.9.2"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
